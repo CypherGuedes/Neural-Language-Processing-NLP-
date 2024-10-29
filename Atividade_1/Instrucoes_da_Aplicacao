@@ -1,1 +1,9 @@
+O que deve ser realizado:
 
+O arquivo .py contendo a implementação do algoritmo BPE.
+
+Um notebook (.ipynb) que:
+- Carregue o conjunto de dados fornecido.
+- Importe as funções implementadas do algoritmo BPE.
+- Aplique o algoritmo BPE no conjunto de dados.
+- Exiba os resultados da segmentação das subpalavras no final do processo.
