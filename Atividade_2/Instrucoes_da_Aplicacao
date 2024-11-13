@@ -1,1 +1,11 @@
+Arquivo Python (.py):
 
+Código do modelo de bigrama.
+Função de cálculo de perplexidade.
+Função de geração de texto.
+
+
+Notebook (.ipynb):
+
+Apresentação do exemplo de geração de texto.
+Cálculo e exibição da perplexidade do modelo no conjunto de teste.
