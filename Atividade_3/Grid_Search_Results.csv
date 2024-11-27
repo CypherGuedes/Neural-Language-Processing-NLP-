@@ -1,4 +1,7 @@
-Model,Best Score (CV),Best Parameters,Test Score
-Naive Bayes,0.85,{'alpha': 0.5},0.84
-Logistic Regression,0.87,"{'C': 1.0, 'solver': 'liblinear'}",0.892
-Random Forest,0.86,"{'n_estimators': 100, 'max_depth': None}",0.875
+Model,Dataset,Best Score (CV),Best Parameters,Test Score
+Naive Bayes,classic4.csv,0.85,{'alpha': 0.5},0.84
+Logistic Regression,classic4.csv,0.87,"{'C': 1.0, 'solver': 'liblinear'}",0.89
+Random Forest,classic4.csv,0.86,"{'n_estimators': 100, 'max_depth': None}",0.87
+Naive Bayes,Industry Sector.csv,0.82,{'alpha': 0.5},0.81
+Logistic Regression,Industry Sector.csv,0.84,"{'C': 1.0, 'solver': 'liblinear'}",0.85
+Random Forest,Industry Sector.csv,0.85,"{'n_estimators': 100, 'max_depth': None}",0.86
